@@ -4,7 +4,7 @@
       <link>http://ryuneeee.github.io/navermusic-updater/appcast.xml</link>
       <language>en</language>
     <item>
-      <title>Version 1.0.1</title>
+      <title>Version 1.0.0</title>
       <pubDate>Sun, Feb 02 2014 00:28:37 GMT+0900 (KST)</pubDate>
       <enclosure url="https://dl.dropboxusercontent.com/u/69958027/Allkdic/Allkdic-1.0.1.app.zip"
         sparkle:version="213"

@@ -2,7 +2,7 @@
    <channel>
       <title>NaverMusic for Mac</title>
       <link>http://ryuneeee.github.io/navermusic-updater/appcast.xml</link>
-      <description>NaverMusic for Mac 업데이트 안내</description>
+      
       <language>en</language>
     <item>
       <title>Version 1.0.1</title>
@@ -14,6 +14,7 @@
         length="493154"
         type="application/octet-stream" />
       <description>
+      NaverMusic for Mac 업데이트 안내
         <![CDATA[
         테스트<br>테스트2
         ]]>

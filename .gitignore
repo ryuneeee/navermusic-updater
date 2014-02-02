@@ -2,3 +2,6 @@ dsa_priv.pem
 dsa_pub.pem
 generate_keys.rb
 sign_update.rb
+/NaverMusicForMac.safariextension
+/NaverMusicForMac_chrome
+NaverMusicForMac_chrome.pem

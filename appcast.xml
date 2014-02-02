@@ -4,6 +4,27 @@
       <link>http://ryuneeee.github.io/navermusic-updater/appcast.xml</link>
       <language>en</language>
     <item>
+      <title>Version 1.2.2</title>
+      <pubDate>Sun, Feb 02 2014 23:12:00 GMT+0900 (KST)</pubDate>
+      <enclosure url="https://ryuneeee.github.com/navermusic-updater/NaverMusicForMac-1.2.2.zip"
+        sparkle:version="42"
+        sparkle:shortVersionString="1.2.2"
+        sparkle:dsaSignature="MCwCFDnkoGanmWkzRgjrgYoikVYVyvAmAhQ/Un5o+t4UoTy6DNY2s1qHO5Wxbw=="
+        length="1578520"
+        type="application/octet-stream" />
+      <description>
+        <![CDATA[
+        <div style="background-color: rgb(255, 255, 255); font-family: Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', Helvetica, nanumgothic, sans-serif, Menlo, Monaco, monospace; font-size: 0.9em; overflow-x: hidden; overflow-y: auto; margin: 0px !important; padding: 5px 20px !important;padding: 20px;padding: 20px; color: rgb(115, 115, 115); font-size: 15px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', AppleSDGothicNeo-Medium, 'Segoe UI', 'Malgun Gothic', Verdana, Tahoma, sans-serif; background-color: rgb(255, 255, 255); -webkit-font-smoothing: antialiased; background-position: initial initial; background-repeat: initial initial;">
+  <h4 style="clear: both;font-size: 1.4em; font-weight: bold; margin: 0.99em 0px 0.66em;margin-top: 0px;color: rgb(64, 64, 64);">네이버 뮤직 for Mac 1.2.2</h4><ol style="list-style-type: decimal;">
+<li style="display: list-item; line-height: 1.4em;">Safari, Chrome 플러그인 추가.</li>
+<li style="display: list-item; line-height: 1.4em;">자동로그인 기능이 정상적으로 작동하지 않던 것을 수정.</li>
+</ol><ul>
+<li style="display: list-item; line-height: 1.4em;">Plug-in Download: <a href="http://ryuneeee.github.io/navermusic-updater/NaverMusicForMac.safariextz" style="text-decoration: none; vertical-align: baseline;color: rgb(30, 110, 167);">Safari</a>, <a href="http://ryuneeee.github.io/navermusic-updater/NaverMusicForMac.crx" style="text-decoration: none; vertical-align: baseline;color: rgb(30, 110, 167);">Chrome</a></li>
+</ul><p style="margin: 1em 0px; word-wrap: break-word;">Pub Date: Sun, Feb 2 2014 11:24 PM</p></div>
+        ]]>
+      </description>
+    </item>
+    <item>
       <title>Version 1.2.0</title>
       <pubDate>Sun, Feb 02 2014 02:57:00 GMT+0900 (KST)</pubDate>
       <enclosure url="https://ryuneeee.github.com/navermusic-updater/NaverMusicForMac-1.2.0.zip"

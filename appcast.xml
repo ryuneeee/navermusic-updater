@@ -4,7 +4,7 @@
       <link>http://ryuneeee.github.io/navermusic-updater/appcast.xml</link>
       <language>en</language>
     <item>
-      <title>Version 1.4.0</title>
+      <title>Version 1.4.1</title>
       <pubDate>Sun, Feb 09 2014 23:22:00 GMT+0900 (KST)</pubDate>
       <enclosure url="https://ryuneeee.github.com/navermusic-updater/NaverMusicForMac-1.4.1.zip"
         sparkle:version="351"

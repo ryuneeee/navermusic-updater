@@ -5,12 +5,12 @@
       <language>en</language>
     <item>
       <title>Version 1.5.0</title>
-      <pubDate>Mon, Jun 02 2014 03:05:00 GMT+0900 (KST)</pubDate>
-      <enclosure url="https://ryuneeee.github.com/navermusic-updater/NaverMusicForMac-1.5.0.zip"
-        sparkle:version="1809"
+      <pubDate>Fri, Jun 06 2014 03:59:00 GMT+0900 (KST)</pubDate>
+      <enclosure url="https://ryuneeee.github.com/navermusic-updater/NaverMusicForMac-1.5.1.zip"
+        sparkle:version="1922"
         sparkle:shortVersionString="1.5.0"
-        sparkle:dsaSignature="MCwCFDN9gWXYO4XFUsg2FEfGgUVvd+67AhRNf1dqTcHUJbD39mSrjA72OSZcVw=="
-        length="1749944"
+        sparkle:dsaSignature="MCoCFENN1jrbG9Ah4/zWMin3tVM/7NPdAhJGsGqqX+kq0DRlrRxUkzi3Lww="
+        length="1756466"
         type="application/octet-stream" />
         <sparkle:releaseNotesLink>http://ryuneeee.github.io/navermusic-updater/releasenote.html</sparkle:releaseNotesLink>
     </item>

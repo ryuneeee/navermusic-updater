@@ -7,10 +7,10 @@
       <title>Version 1.5.2</title>
       <pubDate>Wed, Jun 11 2014 02:10:00 GMT+0900 (KST)</pubDate>
       <enclosure url="https://ryuneeee.github.com/navermusic-updater/NaverMusicForMac-1.5.2.zip"
-        sparkle:version="1930"
+        sparkle:version="1937"
         sparkle:shortVersionString="1.5.2"
-        sparkle:dsaSignature="MCwCFDAWUioofnybJgD3cP93DU4Bc8sMAhRBEgp5e/Wqnb7eHY64Av+jBQb3hg=="
-        length="1756483"
+        sparkle:dsaSignature="MC0CFQCIXxukRb5Do8BL6qe6ndHvly3digIUM75y43WTqsP7r7P2vGi9sjWyc94="
+        length="1756593"
         type="application/octet-stream" />
         <sparkle:releaseNotesLink>http://ryuneeee.github.io/navermusic-updater/releasenote.html</sparkle:releaseNotesLink>
     </item>

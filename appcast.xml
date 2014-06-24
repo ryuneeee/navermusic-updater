@@ -4,13 +4,13 @@
       <link>http://ryuneeee.github.io/navermusic-updater/appcast.xml</link>
       <language>en</language>
     <item>
-      <title>Version 1.5.2</title>
-      <pubDate>Wed, Jun 11 2014 02:10:00 GMT+0900 (KST)</pubDate>
-      <enclosure url="https://ryuneeee.github.com/navermusic-updater/NaverMusicForMac-1.5.2.zip"
-        sparkle:version="1937"
-        sparkle:shortVersionString="1.5.2"
-        sparkle:dsaSignature="MC0CFQCIXxukRb5Do8BL6qe6ndHvly3digIUM75y43WTqsP7r7P2vGi9sjWyc94="
-        length="1756593"
+      <title>Version 1.5.3</title>
+      <pubDate>Tue, Jun 24 2014 02:41:00 GMT+0900 (KST)</pubDate>
+      <enclosure url="https://ryuneeee.github.io/navermusic-updater/NaverMusicForMac-1.5.3.zip"
+        sparkle:version="2017"
+        sparkle:shortVersionString="1.5.3"
+        sparkle:dsaSignature="MCwCFHjm4SFN0bAvpxy8ZHPsz3VutS1YAhQIspupAbbaquHAElsx2HRkLzexWQ=="
+        length="1756648"
         type="application/octet-stream" />
         <sparkle:releaseNotesLink>http://ryuneeee.github.io/navermusic-updater/releasenote.html</sparkle:releaseNotesLink>
     </item>
